@@ -122,7 +122,7 @@ source_file
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/infratrack-ai.git  
+git clone https://github.com/akshitag001/infratrack-ai.git  
 cd infratrack-ai  
 ```
 
