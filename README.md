@@ -101,21 +101,8 @@ source_file
 
 ##  How It Works
 
-```
-User uploads PDF  
-      ↓  
-Text & table extraction using pdfplumber  
-      ↓  
-Regex + heuristics-based field parsing  
-      ↓  
-Standardized schema generation  
-      ↓  
-Delay & cost overrun detection  
-      ↓  
-Dashboard visualization  
-      ↓  
-Export CSV / JSON  
-```
+<img width="564" height="786" alt="image" src="https://github.com/user-attachments/assets/4daf3173-93c1-4895-a66e-6862044e00c3" />
+
 
 ---
 
