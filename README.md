@@ -178,13 +178,7 @@ It demonstrates how unstructured government documents can be converted into AI-r
 
 ---
 
-##  Team 
 
-**AKSHIT AGARWAL , SARTHAK SANAY , ROHIT ANAND**
-B.Tech Student | AI, Gov-Tech & Infrastructure Analytics
-Built as a hackathon prototype to demonstrate real-world public data transformation using AI.
-
----
 
 ## 📜 License
 
